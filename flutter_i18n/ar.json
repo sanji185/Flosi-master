@@ -1,0 +1,78 @@
+{
+
+  "Flosi" : "فلوسي",
+  "Privacy Policy" :
+  "سياسة الخصوصية\nبياناتك محفوظة على جهازك (فقط) ولا يتم استخدامها أو تداولها على الإنترنت بأي شكل من الأشكال.",
+  "Copy Rights" : "جميع الحقوق محفوظة © 2020",
+
+  "Expenses Analysis" : "تحليل مصاريف شهر",
+  "Total Income" : "إجمالي الدخل",
+  "Total Expenses" : "إجمالي المصاريف",
+  "Balance" : "الرصيد",
+
+  "Chart": "المخطط",
+  "Details" : "التفاصيل",
+  "Your Expenses in": "مصاريفك في تصنيف",
+
+  "Filters"  : "فلاتر العرض" ,
+  "Show Current Month": "عرض الشهر الحالي",
+  "Show current month transactions only": "عرض سجلات الشهر الحالي فقط",
+  "Show Income" : "عرض الدخل" ,
+  "Show income transactions only" : "عرض سجلات الدخل فقط",
+  "Show Expenses" : "عرض المصروفات" ,
+  "Show expenses transactions only" : "عرض سجلات المصروفات فقط",
+
+  "Title" : "العنوان",
+  "Amount": "القيمة",
+  "Choose Category": "اختر التصنيف",
+  "Income Radio": "دخل",
+  "Expenses Radio": "مصروفات",
+  "Pick Date": "اختر تاريخ",
+  "Add": "إضافة",
+  "please enter a valid value" : "من فضلك ادخل قيمة صحيحة",
+
+  "Show Chart" : "المخطط الأسبوعي",
+
+  "Daily Expenses": "إجمالي المصاريف",
+  "Delete": "حذف",
+
+  "Analysis": "تحليل المصاريف",
+  "Settings": "الإعدادات",
+  "About": "عن التطبيق",
+
+  "No Records Added Yet" :"لم يتم إضافة أي مصروفات",
+  "No Records For This Period" :"لم يتم إضافة أي مصروفات في هذه الفترة",
+
+
+  "This app was developed by" : "هذا التطبيق تم تطويره بواسطة",
+  "Icons in this app made by Darius Dan" : "جميع أيقونات هذا التطبيق من تصميم Darius Dan من www.flaticon.com",
+
+
+
+  "Reset" : "حذف المصروفات",
+
+  "Confirm" : "تأكيد",
+  "Cancel" : "إلغاء",
+  "Are You Sure You Want To Delete All Your Records?" : "هل أنت متأكد من أنك تريد حذف كل مصروفاتك من قاعدة البيانات؟",
+
+  "Bills" : "فواتير" ,
+  "Books" :  "كتب",
+  "Education" : "تعليم",
+  "Savings":  "مدخرات",
+  "Makeup":  "مكياج",
+  "Children": "أطفال",
+  "Emergency" :  "طوارىء" ,
+  "Entertaining" :  "ترفيه",
+  "Grocery" :  "مواد غذائية",
+  "Maintenance":  "صيانة",
+  "Medical":  "رعاية صحية",
+  "Others" :  "أخرى",
+  "Shopping" :  "تسوق وملابس",
+  "Transportation" :  "نقل ومواصلات",
+  "Travelling" : "سفر",
+  "Salary":  "مرتب",
+  "Reward":  "مكافأة",
+  "Gift": "هدية",
+  "Prize":  "جائزة",
+  "Youtube": "أرباح يوتيوب"
+}
